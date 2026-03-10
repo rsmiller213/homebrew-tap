@@ -1,6 +1,6 @@
 cask "file-open-with" do
-  version "1.0.1"
-  sha256 "915601081a22ebea8076d82ecbe6937c1d9d2192d05c42b84085122acdb934c8"
+  version "1.0.2"
+  sha256 "9d8c2a8e5aa824bf5306ecb8a36d557999803f9a3f0edc5bd010cdc6b151cda4"
 
   url "https://github.com/rsmiller213/file-open-with/releases/download/v#{version}/FileOpenWith-#{version}-macOS.zip"
   name "File Open With"
